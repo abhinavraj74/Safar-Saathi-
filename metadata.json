@@ -1,0 +1,6 @@
+{
+  "name": "Safar Saathi",
+  "description": "India's Travel Finder - Search cities, states, attractions and custom travel vibes with built-in Wikipedia and OpenStreetMap resources.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
